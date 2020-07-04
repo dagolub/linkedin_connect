@@ -17,12 +17,7 @@
 	Thanks! Mario`;
   // keywords to filter employees in specific positions
   const POSITION_KEYWORDS = [
-    "software",
-    "developer",
-    "full stack",
-    "back end",
-    "front end",
-    "r&d",
+    "design",
   ];
 
   // <--> //
